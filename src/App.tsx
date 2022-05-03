@@ -1,11 +1,9 @@
-import reactLogo from './react-logo.png'
-import typescriptLogo from './typescript.svg'
+import reactLogo from './assets/images/react-logo.png'
+import typescriptLogo from './assets/images/typescript.svg'
 
 const App = () => {
   console.log(process.env.NODE_ENV)
   console.log(process.env.name)
-  //
-  //
 
   return (
     <div>
